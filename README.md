@@ -2,15 +2,6 @@
 
 This is a browser project where your webcam gesture triggers a Naruto-style shadow clone effect. It is basically a mix of computer vision, canvas tricks, and pure anime energy.
 
-## Quick guide to this README
-| Section | What it is for |
-|---|---|
-| Project in one line | Fast summary of what this app does |
-| Tech stack | Tools and libraries used |
-| Why it feels simple | Parts that were easy to build |
-| Problems we fought | Real issues faced during development |
-| Credits | Inspiration and asset source |
-
 ## Project in one line
 Webcam + hand gesture detection + segmentation + clone effects + smoke + sound.
 
