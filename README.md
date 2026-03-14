@@ -14,6 +14,17 @@ This is a browser project where your webcam gesture triggers a Naruto-style shad
 ## Project in one line
 Webcam + hand gesture detection + segmentation + clone effects + smoke + sound.
 
+## Files Included
+| File | Description |
+|---|---|
+| `index.html` | Main app: webcam feed with clone jutsu effect |
+| `script.js` | Clone rendering, gesture detection, smoke effects, sound trigger |
+| `style.css` | Styling for the main page |
+| `trainer.html` | UI for recording hand sign samples and training |
+| `trainer.js` | Training logic and model definition using hand landmarks |
+| `trainer.css` | Styling for the trainer page |
+| `assets/` | Smoke sprites, background image, overlay button images, sound asset |
+
 ## Tech stack
 - HTML, CSS, JavaScript
 - TensorFlow.js
